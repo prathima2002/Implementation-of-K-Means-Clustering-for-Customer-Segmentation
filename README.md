@@ -9,25 +9,25 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 ```
-## Step1:
+Step1:
 Import the required packages.
 
-## Step2:
+Step2:
 Import the dataset to work on.
 
-## Step3:
+Step3:
 From sklearn module import kmeans.
 
-## Step4:
+Step4:
 Define number of clusters to be made.
 
-## Step5:
+Step5:
 Assign the cluster values.
 
-## Step6:
+Step6:
 Plot the cluster using matplotlib.pyplot
 
-## Step7:
+Step7:
 End the program.
 ```
 ## Program:
