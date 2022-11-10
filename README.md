@@ -19,8 +19,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: prathima
 RegisterNumber:  212220040156
-*/
-```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers (1).csv")
@@ -54,11 +52,14 @@ plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="green",la
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
+*/
+```
 ## Output:
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/bbf3f523bcc0ecbe8184eb57558eb1af87f7de99/WhatsApp%20Image%202022-11-10%20at%2008.55.34.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/558ed069e0f9e838954d8474c0a567bfdcbef3c7/WhatsApp%20Image%202022-11-10%20at%2008.55.43.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/aa4e3a2015f5b21df5944995e3acd4e342637e8b/WhatsApp%20Image%202022-11-10%20at%2008.56.06.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/ba15c342f1d58b730bb63a719bf97490948bae99/WhatsApp%20Image%202022-11-10%20at%2008.56.29.jpeg)
+![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/41cb883df6a8a5fc781dab8f8c7c0b714290efb3/WhatsApp%20Image%202022-11-10%20at%2008.56.39.jpeg)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
