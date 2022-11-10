@@ -55,7 +55,7 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",
 plt.legend()
 plt.title("Customer Segments")
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/bbf3f523bcc0ecbe8184eb57558eb1af87f7de99/WhatsApp%20Image%202022-11-10%20at%2008.55.34.jpeg)
 
 
 ## Result:
