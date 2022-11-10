@@ -57,6 +57,7 @@ plt.title("Customer Segments")
 ## Output:
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/bbf3f523bcc0ecbe8184eb57558eb1af87f7de99/WhatsApp%20Image%202022-11-10%20at%2008.55.34.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/558ed069e0f9e838954d8474c0a567bfdcbef3c7/WhatsApp%20Image%202022-11-10%20at%2008.55.43.jpeg)
+![image](https://github.com/prathima2002/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/aa4e3a2015f5b21df5944995e3acd4e342637e8b/WhatsApp%20Image%202022-11-10%20at%2008.56.06.jpeg)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
